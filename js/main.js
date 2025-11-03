@@ -116,5 +116,6 @@ function flyToBusStop(busStopName) {
     }
 }
 
-// Fly to "Unterschleißheim Ost" on load
-flyToBusStop("Unterschleißheim Ost");
+// Fly to "Unterschleißheim ost" on load
+flyToBusStop("Unterschleißheim ost");
+
